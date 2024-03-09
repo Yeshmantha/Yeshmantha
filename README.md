@@ -5,6 +5,15 @@
 
 - 🌱 I’m currently undergraduate **SLIIT**
 
+-  # 🧨 About Me:
+👋 Hello there! I'm Nikhil, a dedicated professional currently exploring the realms of Project Management, Business Analysis, and UI/UX Design. With a background in web development, I bring a unique blend of technical expertise and creative insight to every project I undertake.<br><br>🌟 Skills: <br>
+Proficient in project management methodologies and tools <br>
+Experienced in conducting thorough business analysis and requirements gathering <br>
+Skilled in crafting intuitive user interfaces and enhancing user experiences<br>
+Familiarity with frontend and backend development technologies<br>
+Always eager to learn and adapt to new challenges in the dynamic landscape of technology<br>
+<br><br>💼 Currently focused on expanding my knowledge and expertise in project management practices, business analysis techniques, and UI/UX design principles. Committed to delivering exceptional results and exceeding stakeholder expectations in every endeavor.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
